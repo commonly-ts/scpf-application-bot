@@ -1,0 +1,168 @@
+{
+	"config": {
+		"mainGuildId": "1156310958940094484",
+		"applicationsChannelId": "1165254141388537916"
+	},
+	"applications": {
+		"clearance": [
+			{
+				"name": "Level-0 Application",
+				"label": "Level-0 Clearance",
+
+				"emoji": "<scpf:1171641659101020232>",
+				"iconUrl": "https://i.imgur.com/Sa1peTS.png",
+
+				"groupId": 5424728,
+				"guildId": "1156310958940094484",
+				"submissionChannel": "1156310960911421468",
+				"resultsChannel": "1156310960911421467",
+
+				"allowedRoles": ["1156589252163932261"],
+				"autoAccept": false,
+				"autoRank": 4,
+				"closed": false,
+
+				"questions": [
+					"How did you hear about this Foundation? (From a friend, advertisement, etc)",
+					"What is the SCP Foundation and it's goals?",
+					"What is an SCP?",
+					"What are your plans within the Foundation?",
+					"Describe SCP-3000 and its properties."
+				]
+			}
+		],
+		"department": [
+			{
+				"name": "Medical Department Application",
+				"label": "Medical Department",
+
+				"emoji": "<md:1171641651836506242>",
+				"iconUrl": "https://i.imgur.com/gU4rOTC.png",
+
+				"groupId": 33170044,
+				"guildId": "1156340816017637466",
+				"submissionChannel": "1156455837414457354",
+				"resultsChannel": "",
+
+				"allowedRoles": ["1156310958994636843", "1156310958994636851"],
+				"autoAccept": true,
+				"autoRank": 0,
+				"closed": false,
+
+				"questions": [
+					"Describe what the Medical Department does. (In your own words)",
+					"What is one of the main responsibilities that all MD members must participate in?",
+					"Which ranks may use the defibrillator? (Don't list a rank with a plus, list all ranks)",
+					"What should you do on-site in the event of a breach?",
+					"What should you do in the event of a raid on-site?",
+					"What is required of you to rank up as a Medical Student?"
+				]
+			},
+			{
+				"name": "Engineering & Technical Department Application",
+				"label": "Engineering & Technical",
+
+				"emoji": "<ent:1171641640209887303>",
+				"iconUrl": "https://i.imgur.com/jiNqrzs.png",
+
+				"groupId": 33205622,
+				"guildId": "1162798164454154331",
+				"submissionChannel": "1172348036974903336",
+				"resultsChannel": "",
+
+				"allowedRoles": ["1156310958994636843", "1156310958994636851"],
+				"autoAccept": true,
+				"autoRank": 0,
+				"closed": false,
+
+				"questions": [
+					"Why do you want to join E&T?",
+					"What qualifications and skills do you have that make you suitable for E&T?",
+					"What experience do you have in Roblox SCPF or similar games?",
+					"How many hours per week can you dedicate to E&T?",
+					"Have you ever been banned or disciplined in a Roblox game or community? If so, please explain why.",
+					"How would you rate your critical thinking, creativity, and problem solving?",
+					"As a member of E&T, you will be expected to maintain a high level of professionalism and confidentiality. Are you willing to adhere to these standards?"
+				]
+			},
+			{
+				"name": "Scientific Department Application",
+				"label": "Scientific Department",
+
+				"emoji": "<scd:1171641657096142858>",
+				"iconUrl": "https://i.imgur.com/FtIUJIx.png",
+
+				"groupId": 33170111,
+				"guildId": "1161705055674708110",
+				"submissionChannel": "1166401153903378442",
+				"resultsChannel": "",
+
+				"allowedRoles": ["1156310958994636843", "1156310958994636851"],
+				"autoAccept": true,
+				"autoRank": 0,
+				"closed": false,
+
+				"questions": [
+					"Why do you want to join the Scientific Department?",
+					"What qualifications and skills do you have that make you suitable for the Scientific Department?",
+					"What experience do you have in Roblox SCPF or similar games?",
+					"How many hours per week can you dedicate to the Scientific Department?",
+					"Please provide an example of a research project you have conducted in the past (in any field).",
+					"As Scientific Department Personnel, you will be expected to maintain a high level of professionalism and confidentiality. Are you willing to adhere to these standards?"
+				]
+			},
+			{
+				"name": "Ethics Committee Application",
+				"label": "Ethics Committee",
+
+				"emoji": "<ec:1171641643707932693>",
+				"iconUrl": "https://i.imgur.com/Gjewb86.png",
+
+				"groupId": 33170111,
+				"guildId": "1160941779688886312",
+				"submissionChannel": "1172350089130418277",
+				"resultsChannel": "",
+
+				"allowedRoles": ["1156310958994636843", "1156310958994636851"],
+				"autoAccept": true,
+				"autoRank": 0,
+				"closed": false,
+
+				"questions": [
+					"Why do you want to join the Ethics Committee?",
+					"What qualifications and skills do you have that make you suitable for the Ethics Committee?",
+					"What experience do you have in Roblox SCPF or similar games?",
+					"How many hours per week can you dedicate to the Ethics Committee?",
+					"Please provide an example of certain tasks you have handled in the past, whether it be akin to document writing or simple enforcement.",
+					"As Ethics Committee Personnel, you will be expected to maintain a high level of professionalism and confidentiality. Are you willing to adhere to these standards?"
+				]
+			},
+			{
+				"name": "Department of External Affairs Application",
+				"label": "External Affairs",
+
+				"emoji": "<dea:1171641638230175856>",
+				"iconUrl": "https://i.imgur.com/ayNxrkk.png",
+
+				"groupId": 33198928,
+				"guildId": "1156689259403673744",
+				"submissionChannel": "1172347822830530590",
+				"resultsChannel": "",
+
+				"allowedRoles": ["1156310958994636843", "1156310958994636851"],
+				"autoAccept": true,
+				"autoRank": 0,
+				"closed": false,
+
+				"questions": [
+					"Why do you want to join the Department of External Affairs?",
+					"What qualifications and skills do you have that make you suitable for the Department of External Affairs?",
+					"What experience do you have in Roblox SCPF or similar games?",
+					"How many hours per week can you dedicate to the Department of External Affairs?",
+					"What kind of diplomatic jobs have you previously had?",
+					"As Department of External Affairs Personnel, you will be expected to maintain a high level of professionalism and confidentiality. Are you willing to adhere to these standards?"
+				]
+			}
+		]
+	}
+}
